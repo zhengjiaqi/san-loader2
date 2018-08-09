@@ -1,0 +1,21 @@
+{
+  "name": "san-loader2",
+  "description": "san-loder for webpack4",
+  "keywords": "san loader",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhengjiaqi/san-loader2"
+  },
+  "author": "zhengjiaqi <971682460@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhengjiaqi/san-loader2/issues"
+  },
+  "homepage": "https://github.com/zhengjiaqi/san-loader2",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
